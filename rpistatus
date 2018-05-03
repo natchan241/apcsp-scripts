@@ -1,0 +1,3 @@
+#! /bin/bash
+
+array=("rpi01" "rpi02" "rpi03" "rpi04" "rpi05" "rpi06" "rpi07" "rpi08" "rpi09" "rpi10" "rpi11" 
